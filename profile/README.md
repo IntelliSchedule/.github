@@ -21,7 +21,7 @@ IntelliSchedule is your academic compass, seamlessly integrating [Rate My Profes
 3. Navigate to your university's course scheduling page.
 4. Enjoy real-time Rate My Professors ratings and reviews as you browse courses!
 
-## Usage :computer:
+## Code
+# Frontend: https://github.com/IntelliSchedule/Frontend.git
+# Backend 
 
-<!-- How to use the plugin -->
-Once installed, IntelliSchedule will automatically display Rate My Professors ratings and reviews when you hover over or click on a course in your scheduling portal.
