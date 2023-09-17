@@ -23,5 +23,5 @@ IntelliSchedule is your academic compass, seamlessly integrating [Rate My Profes
 
 ## Code
 # Frontend: https://github.com/IntelliSchedule/Frontend.git
-# Backend 
+# Backend: https://github.com/IntelliSchedule/Backend.git
 
